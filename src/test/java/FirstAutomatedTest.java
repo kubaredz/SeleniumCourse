@@ -12,6 +12,7 @@ public class FirstAutomatedTest {
     public void beforeTest() {
         System.setProperty("webdriver.chrome.driver", "drivers/chromedriver.exe");
         driver = new ChromeDriver();
+        //SOUTfdsfdsfsdf
     }
 
     @Test
